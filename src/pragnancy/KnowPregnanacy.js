@@ -102,8 +102,6 @@ function KnowPregnanacy() {
         </div>
         <h3>How is my due date calculated?</h3>
         <p className='para'>There are several ways your due date is determined. If you happen to know the day you conceived, you can count 38-40 weeks from that day to find your due date. (Human gestation takes about 38-40 weeks.)But it is very difficult to tell on which day sperm fertilized the egg and how long between 38 to 40 week(266-280 days) will it take.So we use an average method and we add 270 days from your last period + half of your period gap duration.</p>
-       
-        
       </div>
      
     </div>
